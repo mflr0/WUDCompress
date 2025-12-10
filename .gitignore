@@ -1,0 +1,57 @@
+# CMake generated files
+/build/
+/CMakeCache.txt
+/CMakeFiles/
+/Makefile
+/cmake_install.cmake
+/install_manifest.txt
+*.cbp
+*.depend
+*.files
+*.sync
+*.user
+*.txt.user
+
+# Visual Studio files
+.vs/
+*.aps
+*.bsc
+*.lib
+*.ncb
+*.obj
+*.o
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.suo
+*.user
+*.vcproj.*.filters
+*.vcxproj.user
+*.vcxproj
+*.sln
+*.suo
+ipch/
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+*.tlog
+*.log
+
+# Build directories specific to the original project structure
+src/WudCompress/WudCompress/Debug/
+src/WudCompress/WudCompress/Release/
+
+# Executables and Libraries
+*.dll
+*.exe
+*.so
+*.a
+*.lib
+
+# Editor/OS specific files
+.DS_Store
+*.swp
+*~
